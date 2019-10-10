@@ -6,10 +6,8 @@ she is my lover
 love you forever~
 my Miss.liang!
 love you 
-<<<<<<< HEAD
 liangchenxi
 liangchenxi
-
 liangchenxi
 liangche
 love you 
@@ -20,4 +18,5 @@ love you
 love you 
 love you 
 love you 
-love you 
+
+这是branch2修改的，先不合并
